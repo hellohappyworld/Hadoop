@@ -8,6 +8,10 @@
 
 ![](img/img01/03.teacher.txt.png)
 
+执行结果：
+
+![](img/img01/04.WordCount执行结果.png)
+
 2.代码
 
 ```
