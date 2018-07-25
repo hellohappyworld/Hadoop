@@ -1,0 +1,6 @@
+当前使用版本:1.6.0
+channel:就是一个缓存，，目的是解决source和sink端的速度不匹配问题
+source种类:avro(网络通信)、exec(监控文件)、Kafka、spooling dir(监控目录)、syslogtcp、httpsource
+channel种类:file、memory
+sink种类:avro、hdfs、Kafka、hbase、logger
+flume运行单元:agent
